@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1528063977 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<vector>
+	"sciezki.h"
+	"zbior.h"
+	"gra.h"
+
+1527671257 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\graf.cpp
+	<iostream>
+	<list>
+	"graf.h"
+
+1527440657 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\graf.h
+	<iostream>
+	<list>
+
+1527677298 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\slownik.h
+	<iostream>
+	<list>
+	<fstream>
+
+1527676774 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\wejsciewyjscie.cpp
+	<iostream>
+	<list>
+	<fstream>
+	"wejsciewyjscie.h"
+
+1527674956 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\wejsciewyjscie.h
+	<iostream>
+	<list>
+
+1528044026 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\slownik.cpp
+	<iostream>
+	<list>
+	<fstream>
+	"slownik.h"
+
+1528065704 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\gra.cpp
+	<iostream>
+	<list>
+	<fstream>
+	<set>
+	"gra.h"
+
+1528049446 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\gra.h
+	<iostream>
+	<list>
+	<set>
+
+1527681610 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\slowo.h
+	<iostream>
+	<list>
+
+1527681694 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\slowo.cpp
+	<iostream>
+	<list>
+	"slowo.h"
+
+1528046507 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\zbior.h
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<vector>
+
+1528046603 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\zbior.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<vector>
+	"zbior.h"
+
+1528057298 source:c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\sciezki.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<vector>
+	"sciezki.h"
+
+1528051610 c:\users\maria\desktop\pulpit\studia\ii sem\grawslowa\sciezki.h
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<vector>
+
